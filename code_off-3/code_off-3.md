@@ -46,6 +46,7 @@ By looking at the above example, it's clear that the top most portion of the gri
 
 ###Output
 A text file in the following format.
+The output file should be titled, "code_off-5-x.out", where x is the input text case number.
 
 ```
  ####*******#####
