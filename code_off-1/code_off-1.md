@@ -18,6 +18,7 @@
 ###Input
 * A text file where the first line is an integer n. n indicates the number of strings in the list.
 * Thereafter, each string is listed on a new line.
+* The output file should be titled, "code_off-1.out", where x is the input text case number. The file should be located in the root of that specific code off directory.
 
 ####Example
 2
