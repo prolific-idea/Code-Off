@@ -7,13 +7,13 @@ http://www.prolificidea.com/codeoff.html
 #How to Participate?
 Fork the Code Off repo and push your solution to your fork.
 
-#Code Off #5 - Maze Runner
+#Code Off #6 - Shortest Coffee Run
 
 ##Premise
-You're trapped in a maze and need to escape to get to your coffee.
+You're trapped in a maze and need to escape to get to the closest cup of coffee.
 
 ##Challenge
-Your goal is to mark a path (.) from the starting point (@) to the coffee (U)
+Your goal is to mark the shortest path (.) from the starting point (@) to the coffee (U)
 
 ##Legend
 ```
@@ -25,6 +25,7 @@ U = Coffee
 ##Constraints
 * The width and height of the grid will always be the same.
 * The width and height of the grid may be sized between 21x21 and 1021x1021.
+* The number of cups (U) may be between 1 and 10.
 
 ##Details
 
@@ -33,7 +34,7 @@ An example input text file:
 
 ```
 ###################U#
-#             #     #
+U             #     #
 # # ### # # ### #####
 # # # # # #       # #
 # # # ### ##### ### #
@@ -45,7 +46,7 @@ An example input text file:
 # # # ####### ##### #
 # # #     @         #
 ##### ####### # ### #
-#   #       # # #   #
+#   #       # # #   U
 # ####### # ### ### #
 # # # # # #   #   # #
 # # # # ####### ### #
@@ -60,19 +61,19 @@ A text file in the following format.
 
 ```
 ###################U#
-#        ...  #.....#
-# # ### #.#.###.#####
-# # # # #.#.....  # #
-# # # ###.##### ### #
-# # # #...    #   # #
-##### #.######### # #
-#    ...  # #       #
-# # #.### # #########
-# # #.  # #   #     #
-# # #.####### ##### #
-# # #.....@         #
-##### ####### # ### #
-#   #       # # #   #
+U             #     #
+# # ### # # ### #####
+# # # # # #       # #
+# # # ### ##### ### #
+# # # #       #   # #
+##### # ######### # #
+#         # #       #
+# # # ### # #########
+# # #   # #   #     #
+# # # ####### ##### #
+# # #     @.........#
+##### ####### # ###.#
+#   #       # # #  .U
 # ####### # ### ### #
 # # # # # #   #   # #
 # # # # ####### ### #
@@ -81,4 +82,4 @@ A text file in the following format.
 #           # #     #
 #####################
 ```
-Notice that the path from the starting location to the coffee cup is marked using the "." symbol.
+Notice that the path from the starting location to the closest cup of coffee is marked using the "." symbol.
