@@ -1,4 +1,4 @@
-#Code Off #6 - Shortest Path
+#Code Off #6 - Shortest Coffee Run
 
 ##Premise
 You're trapped in a maze and need to escape to get to the closest cup of coffee.
@@ -16,6 +16,7 @@ U = Coffee
 ##Constraints
 * The width and height of the grid will always be the same.
 * The width and height of the grid may be sized between 21x21 and 1021x1021.
+* The number of cups (U) may be between 1 and 10.
 
 ##Details
 
