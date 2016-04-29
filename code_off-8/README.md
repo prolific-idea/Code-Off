@@ -5,7 +5,7 @@ With reference to the [Entelect Challenge](http://challenge.entelect.co.za).
 You're bomberman. You're given a block of walls and bombs. You need to determine the destroyed walls after the explosion occurs.
 
 ##Challenge
-The radius of walls destroyed by a bomb is specified by the number on the bomb. Each bomb explodes verically and horizontally, but never diagonally. If a bomb is adjacent to another bomb (vertically, horizontally, or diagonally) it's radius increases by 1 for each adjacent bomb.
+The radius of walls destroyed by a bomb is specified by the number on the bomb. Each bomb explodes vertically and horizontally, but never diagonally. If a bomb is adjacent to another bomb (vertically, horizontally, or diagonally) it's radius increases by 1 for each adjacent bomb.
 Determine the outcome of the explosion by marking destroyed walls and bombs with *.
 
 ##Legend
