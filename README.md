@@ -21,6 +21,7 @@ Please see Code Off #8 as a reference.
 ##Challenge
 The radius of walls destroyed by a bomb is specified by the number on the bomb. Each bomb explodes verically and horizontally, but never diagonally. If a bomb is adjacent to another bomb (vertically, horizontally, or diagonally) it's radius increases by 1 for each adjacent bomb.
 Determine the position and radius of the bombs by marking them on the map.
+There are many combinations that will work. There is no one correct solution.
 
 ##Legend
 ```
