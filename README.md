@@ -22,44 +22,44 @@ Translate the alphabet based sentence to Morse code, then, obfuscate the Morse c
 Below is the international Morse code translations. Separate letters with pipe (|), and separate words with forward slash (/).
 
 ### International Morse Code
-A .-
-B -...
-C -.-.
-D -..
-E .
-F ..-.
-G --.
-H ....
-I ..
-J .---
-K -.-
-L .-..
-M --
-N -.
-O ---
-P .--.
-Q --.-
-R .-.
-S ...
-T -
-U ..-
-V ...-
-W .--
-X -..-
-Y -.--
-Z --..
-0 -----
-1 .----
-2 ..---
-3 ...--
-4 ....-
-5 .....
-6 -....
-7 --...
-8 ---..
-9 ----.
-Fullstop .-.-.-
-Comma --..--
+* A .-
+* B -...
+* C -.-.
+* D -..
+* E .
+* F ..-.
+* G --.
+* H ....
+* I ..
+* J .---
+* K -.-
+* L .-..
+* M --
+* N -.
+* O ---
+* P .--.
+* Q --.-
+* R .-.
+* S ...
+* T -
+* U ..-
+* V ...-
+* W .--
+* X -..-
+* Y -.--
+* Z --..
+* 0 -----
+* 1 .----
+* 2 ..---
+* 3 ...--
+* 4 ....-
+* 5 .....
+* 6 -....
+* 7 --...
+* 8 ---..
+* 9 ----.
+* Fullstop .-.-.-
+* Comma --..--
 
 ### Obfuscation
 For obfuscation, your team decided to replace the number of consecutive dots with a number, and replace the number of consecutive dashes with the letter of the alphabet at that position. E.g. S = ... = 3, Q = --.- = b1a, F = ..-. = 2a1.
