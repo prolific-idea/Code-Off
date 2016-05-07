@@ -65,9 +65,9 @@ Below is the international Morse code translations. Separate letters with pipe (
 For obfuscation, your team decided to replace the number of consecutive dots with a number, and replace the number of consecutive dashes with the letter of the alphabet at that position. E.g. S = ... = 3, Q = --.- = b1a, F = ..-. = 2a1.
 
 ### Example
-Sentence: I AM IN TROUBLE
-Morse Code: ../.-|--/..|-./-|.-.|---|..-|-...|.-..|.
-Obfuscated Morse Code: 2/1A|B/2|A1/A|1A1|C|2A|A3|1A2|1
+* Sentence: I AM IN TROUBLE
+* Morse Code: ../.-|--/..|-./-|.-.|---|..-|-...|.-..|.
+* Obfuscated Morse Code: 2/1A|B/2|A1/A|1A1|C|2A|A3|1A2|1
 
 ### Input
 An example input text file:
