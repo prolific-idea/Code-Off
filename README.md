@@ -67,7 +67,7 @@ QS
 
 ### Output
 The output file will contain each possibility of cards for each player after the first deal.
-Cards are seperated by "," and player's hands are seperated by "|".
+Cards are separated by "," and player's hands are separated by "|".
 
 ```
 JC,1C,QC,JS|10H,QH,QS,QD|JH,JD,1S,1D|9S,KH,KC,9D
