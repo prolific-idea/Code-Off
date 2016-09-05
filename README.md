@@ -8,10 +8,6 @@ http://www.prolificidea.com/codeoff.html
 # How to Participate?
 Fork the Code Off repo and push your solution to your fork.
 
-# Notice
-The leaderboard is currently outdated and we're in the process of automating and updating it.
-Please send through any suggestions to info[at]prolificidea[dot]com
-
 # Code Off #13 - Gravitational Waves
 
 ## Premise
